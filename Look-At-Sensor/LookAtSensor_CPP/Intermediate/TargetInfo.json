@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LookAtSensor_CPP",
+			"Path": "C:\\Users\\garre\\OneDrive\\Documents\\Look-At-Sensor\\LookAtSensor_CPP\\Source\\LookAtSensor_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LookAtSensor_CPPEditor",
+			"Path": "C:\\Users\\garre\\OneDrive\\Documents\\Look-At-Sensor\\LookAtSensor_CPP\\Source\\LookAtSensor_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

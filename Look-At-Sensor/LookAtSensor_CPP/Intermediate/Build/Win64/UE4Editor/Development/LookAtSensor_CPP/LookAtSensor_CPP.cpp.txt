@@ -1,0 +1,2 @@
+C:\Users\garre\OneDrive\Documents\Look-At-Sensor\LookAtSensor_CPP\Intermediate\Build\Win64\UE4Editor\Development\LookAtSensor_CPP\Definitions.LookAtSensor_CPP.h
+C:\Users\garre\OneDrive\Documents\Look-At-Sensor\LookAtSensor_CPP\Source\LookAtSensor_CPP\LookAtSensor_CPP.h

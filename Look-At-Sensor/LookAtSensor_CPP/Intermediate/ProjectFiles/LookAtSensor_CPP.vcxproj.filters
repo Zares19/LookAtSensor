@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LookAtSensor_CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EA7B42E1-F76B-42C9-AA23-1E78A136AF99}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LookAtSensor_CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LookAtSensor_CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6B960498-C71D-4255-981C-4E98DB631E14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LookAtSensor_CPP">
+      <UniqueIdentifier>{0802A3D0-E61B-466B-9B3F-009822406425}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPP.Build.cs">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPP.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPP.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPCharacter.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPCharacter.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPGameMode.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPGameMode.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPHUD.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPHUD.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPProjectile.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\LookAtSensor_CPPProjectile.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LookAtSensor_CPP\Sensor.cpp">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LookAtSensor_CPP\Sensor.h">
+      <Filter>Source\LookAtSensor_CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
